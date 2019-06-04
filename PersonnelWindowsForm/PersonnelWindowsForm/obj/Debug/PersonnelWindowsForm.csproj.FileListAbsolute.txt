@@ -1,0 +1,10 @@
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\bin\Debug\PersonnelWindowsForm.exe.config
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\obj\Debug\PersonnelWindowsForm.csprojResolveAssemblyReference.cache
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\obj\Debug\PersonnelWindowsForm.FormMain.resources
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\obj\Debug\PersonnelWindowsForm.csproj.GenerateResource.Cache
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\bin\Debug\PersonnelWindowsForm.exe
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\bin\Debug\PersonnelWindowsForm.pdb
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\bin\Debug\PersonnelLibrary.dll
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\bin\Debug\PersonnelLibrary.pdb
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\obj\Debug\PersonnelWindowsForm.exe
+D:\Users\FMLauze\Documents\EPSI\B2 cette fois c la bonne\Projets\Projet C#\PersonnelWindowsForm\PersonnelWindowsForm\obj\Debug\PersonnelWindowsForm.pdb
